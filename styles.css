@@ -1,0 +1,339 @@
+*, body{
+    /* width: 100%; */
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+}
+#head{
+    margin:0;
+    padding: 0;
+}
+.bg-image {
+    background-image: url("background1.jpg");
+    background-color: #cccccc;
+    height: 1000px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+#title-text {
+    position: relative;
+    margin-top: 150px;
+    color: white;
+    font-size: 75px;
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 3px;
+}
+#sub-text {
+    color: white;
+    font-size: 15px;
+}
+#sec-page {
+    background-color: black;
+}
+/* #sec1 {
+    position: relative;
+    margin-top: -90px;
+} */
+#sec-page2 {
+    background-image: linear-gradient(200deg, rgb(7, 11, 68), rgb(0, 0, 0));
+}
+#vfish {
+    position: absolute;
+    margin-left: 220px;
+    width: 650px;
+    height: 600px;
+}
+#mfish {
+    width: 480px;
+    height: 500px;
+    position: relative;
+    margin-top: 13rem;
+    margin-left: -11.2rem;
+    border: black solid 1.5rem;
+}
+#abtus-sec {
+    width: 39rem;
+    height: 37rem;
+}
+#abtus {
+    color: rgb(13, 141, 210);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#crd-text{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul li::marker {
+    font-size: 30px;
+    color: rgba(49, 137, 231, 0.587);
+}
+#crd-li {
+    font-size: 13px;
+    color: rgba(49, 137, 231, 0.587);
+}
+.bg-page3 {
+    background-image: url(sec32.jpg);
+    height: 800px;
+    background-size: cover;
+}
+#sec3-text {
+    padding-top: 11.5rem;
+}
+#sec3-text2 {
+    font-family: 'Oswald', sans-serif;
+}
+#sec-page4 {
+    background-image: linear-gradient(200deg, rgb(7, 11, 68), rgb(0, 0, 0));
+}
+#page4-head {
+    color: rgb(13, 141, 210);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 7rem;
+}
+#sec4-text2 {
+    font-family: 'Oswald', sans-serif;
+}
+#bara-fish {
+    padding-top: 7rem;
+}
+#fresh-fish {
+    width: 340px;
+    height: 235px;
+    margin-right: 2rem;
+}
+/*#sea-weed {
+    margin-top: -1100px;
+    margin-left: 635px;
+}
+#fish-oil {
+    margin-top: -1148px;
+    margin-left: 1000px;
+} */
+.flexbox {
+    display: flex;
+    margin-left: 16rem;
+    position: absolute;
+    margin-top: -43rem;
+}
+.flexbox2 {
+    display: flex;
+    margin-left: 19rem;
+    position: absolute;
+    margin-top: -33rem;
+}
+/* /* #sec4-crdtxt {
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+} */
+#sec4-crdtxt1 {
+    margin-right: 6rem;
+}
+/*#sec4-crdtxt2{
+    margin-top: -525px;
+    margin-left: 122px;
+}
+#sec4-crdtxt3 {
+    margin-top: -525px;
+    margin-left: 122px;
+} */
+#whyusre {
+    margin-left: 190px;
+}
+#whyus {
+    font-family: 'Oswald', sans-serif;
+    color: rgb(13, 141, 210);
+}
+#whyus-txt {
+    font-family: 'Oswald', sans-serif;
+}
+#prg-bar {
+    margin-left: 165px;
+    margin-bottom: 6rem;
+}
+#net-fish {
+    border: black solid 0.75rem;
+    width: 350px; height: 370px;
+    position: relative;
+    margin-top: -480px;
+    margin-left: 50px;
+}
+#bg-page5 {
+    background-image: url(ocean.jpg);
+    height: 800px;
+    background-size: cover;
+}
+#testi {
+    font-family: 'Oswald', sans-serif;
+    color: rgb(5, 18, 136);
+    padding-top: 7rem;
+    letter-spacing: 2px;
+}
+#testi2 {
+    font-family: 'Oswald', sans-serif;
+}
+#bg-page6 {
+    background-color: rgb(1, 1, 20);
+    padding-bottom: 8rem;
+}
+#news {
+    color: rgb(13, 141, 210);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 7rem;
+    margin-left: 13rem;
+}
+#news-art {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 13rem;
+    margin-bottom: 0%;
+}
+/* #viewbtn {
+    position: relative;
+    margin-left: 55rem;
+} */
+#pg6-crd-txt {
+    font-family: 'Oswald', sans-serif;
+}
+#page7 {
+    background-color: #0A0C12;
+}
+#news-letter {
+    color: rgb(13, 141, 210);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 4rem;
+    margin-left: 13rem;
+    margin-bottom: 0%;
+}
+#news-news {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 13rem;
+    margin-bottom: 0%;
+}
+#page7-pt2 {
+    background-color: black;
+}
+#foot-txt {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 13rem;
+    padding-top: 4rem;
+    letter-spacing: 2px;
+}
+#foot-txt2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 13rem;
+}
+#foot-txt-alt {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 3rem;
+    padding-top: 4rem;
+    letter-spacing: 2px;
+}
+#foot-txt2-alt {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 3rem;
+}
+#foot-txt-alt-2 {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 3rem;
+    padding-top: 4rem;
+    letter-spacing: 2px;
+}
+#foot-txt-alt-3 {
+    font-family: 'Oswald', sans-serif;
+    margin-left: 0rem;
+    padding-top: 4rem;
+    letter-spacing: 2px;
+}
+#txt-hov:hover {
+    color: rgb(13, 141, 210);
+}
+#hr1 {
+    margin-left: 12rem;
+}
+#foot-img {
+    margin-left: 13rem;
+}
+@media (max-width: 1235px) {
+    *{
+        /* width: 100%; */
+        padding: 0px;
+        margin: 0px;
+        overflow-x: hidden;
+    }
+    #abtus-sec {
+        width: 30rem;
+        height: 45rem;
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+@media (max-width: 420px) {
+    *, body{
+        padding: 0px;
+        margin: 0px;
+        overflow-x: hidden;
+    }
+    #head{
+        margin:0;
+        padding: 0;
+    }
+    #vfish {
+        width: 100%;
+        height: auto;
+        position: relative;
+        margin-left: 1rem;
+    }
+    #mfish {
+        width: 70%;
+        height: auto;
+        position: absolute;
+        margin-top: -13.5rem;
+        margin-left: 1rem;
+        border: black solid 1rem;
+    }
+    #bara-fish {
+        position: absolute;
+        z-index: -1;
+    }
+    .flexbox {
+        display: inline;
+        position: relative;
+        margin-left: 0px;
+        margin-top: -40rem;
+        margin-bottom: 5rem;
+    }
+    #fresh-fish {
+        position: relative;
+        margin-bottom: 8rem;
+        margin-left: 30px;
+        /* width: 100%; */
+        height: auto;
+    }
+    #flexbox2 {
+        display: inline;
+        width: 10rem;
+        position: absolute;
+        margin-left: 5rem;
+        margin-top: -56rem;
+    }
+    #sec4-crdtxt1 {
+        margin-bottom: 16rem;
+    }
+    #prg-bar {
+        margin-left: 0px;
+    }
+    #whyusre {
+        margin-left: 25px;
+    }
+    #del-img {
+        position: absolute;
+        z-index: -1;
+    }
+    #net-fish {
+        width: 70%;
+        height: auto;
+        position: relative;
+        margin-top: -10rem;
+        margin-bottom: 40px;
+    }
+}
